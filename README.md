@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m Jihyun Kim! I'm currently studying at MS in Business Analytics in UC Davis.
 - 🌱 I’m learning Machine Learning, Statistics, Web scraping - Basically eveything needed to be a datascientist.
-- 💻 Actively using: SQL(MySQL, BigQuery), Python, R, Tableau
-- 💞️ I'm going to upload my codes for assignments from my master's here 
+- 💻 Actively using: SQL(MySQL, BigQuery), Python, R, Tableau, NoSQL(MongoDB)
+- 💞️ I'm going to upload my codes for assignments from my master's along with individual projects here 
 - 📫 LinkedIn: https://www.linkedin.com/in/jihyun-kim423/
 - ⚡ Fun fact: I studied Swedish during my undergrad, but my first full-time job was as a data analyst. I worked for Samsung Electronics for 6 years in that role.
 
